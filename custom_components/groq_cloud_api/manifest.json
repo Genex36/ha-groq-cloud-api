@@ -3,7 +3,8 @@
   "name": "Groq Cloud API",
   "version": "0.1.0",
   "codeowners": [
-    "@HunorLaczko"
+    "@HunorLaczko",
+    "@Genex36"    
   ],
   "config_flow": true,
   "dependencies": [],
